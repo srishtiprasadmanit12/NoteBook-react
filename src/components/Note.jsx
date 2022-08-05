@@ -1,6 +1,7 @@
 import React from "react";
 import ReactDOM from "react-dom";
 
+
 function Note(props){
 
     function handleClick(){
